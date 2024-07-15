@@ -12,11 +12,11 @@ I design layouts for various websites, mobile applications, CRM systems, SaaS pl
 
 ### The design tools I am proficient with:
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg" title="Adobe XD" alt="Adobe XD" width="40" height="40"/>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" title="Sketch" alt="Sketch" width="40" height="40"/>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" alt="After Effects" width="40" height="40"/>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg" title="Adobe XD" alt="Adobe XD" width="40" height="40"/>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" title="Webflow" alt="Webflow" width="40" height="40"/>
 
 
