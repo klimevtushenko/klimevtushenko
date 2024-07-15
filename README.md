@@ -13,12 +13,6 @@ I design layouts for various websites, mobile applications, CRM systems, SaaS pl
 - <a href="https://www.behance.net/klymevtushenko">"Behance"</a>  
 - <a href="https://dribbble.com/klimevtushenko">"Dribbble"</a>
 
-  
-### My project experience:
-
-- 📄  <a href="https://cortexlab.ai/">Cortex Lab<a/>
-- 📄  <a href="https://get.ffcapp.com">FanClub<a/>
-
 
 ### The design tools I am proficient with:
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
@@ -47,6 +41,11 @@ I design layouts for various websites, mobile applications, CRM systems, SaaS pl
 <!--
 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> 
+
+### My project experience:
+
+- 📄  <a href="https://cortexlab.ai/">Cortex Lab<a/>
+- 📄  <a href="https://get.ffcapp.com">FanClub<a/>
 
 
 
