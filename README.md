@@ -1,11 +1,7 @@
 ### Hi there, I'm Klym 👋 
 I am a **Senior designer UX/UI**.  
 **7+** years of experience in UI/UX design.  
-I design layouts for various websites, mobile applications, CRM systems, SaaS platforms, logos, and presentations.  
-
-- 📫 How to reach me:
-  [![Linkedin Badge](https://img.shields.io/badge/-Klym_Yevtushenko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/klym-yevtushenko/)
-
+I design layouts for various websites, mobile applications, CRM systems, SaaS platforms, logos, and presentations. 
 
 
 ### My portfolio on Behance and Dribbble:
