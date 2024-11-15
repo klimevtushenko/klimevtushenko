@@ -18,6 +18,8 @@ I design layouts for various websites, mobile applications, CRM systems, SaaS pl
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" alt="After Effects" width="40" height="40"/>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" title="Webflow" alt="Webflow" width="40" height="40"/>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg" title="Framer" alt="Framer" width="40" height="40" />
+
 
 
 <br>
