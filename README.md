@@ -1,11 +1,11 @@
 ### Hi there, I'm Klym 👋  
 I am a **Senior UX/UI Designer** and the founder and CEO of **Vibestyle** agency.  
-With over **7 years of experience** in UI/UX design, I specialize in crafting visually engaging, user-centered layouts for websites, mobile applications, and various digital products. 
-
+With over **8 years of experience** in UI/UX design, I specialize in crafting visually engaging, user-centered layouts for websites, mobile applications, and various digital products. 
+<!--  
 ### 🍏 My Portfolio
 - <a href="https://www.behance.net/klymevtushenko">Behance</a>  
 - <a href="https://dribbble.com/klimevtushenko">Dribbble</a>  
-
+-->
 ### The design tools I am proficient with:
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg" title="Adobe XD" alt="Adobe XD" width="40" height="40"/>
